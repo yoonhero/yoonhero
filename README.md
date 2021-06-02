@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoonhero
-- 👀 I’m interested in WEB, AI, HARDWEAR
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on MY SCHOOL 
+- 👀 I’m interested in WEB, AI, HARDWEAR, GAME
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on my club, ATC
 - 📫 How to reach me yoonhero06@naver.com
 
 <!---
