@@ -9,7 +9,7 @@
 	
 
 ### Hello My Name is Yoon Seong Hyeon. 
-- I am always try to make better world. 
+- I always try to make better world. 
 - My Motto is "Think Nothing". 
  
 ### I will change the world! Step by step I will be better person!
