@@ -33,5 +33,4 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-.. image:: https://wakatime.com/share/@yoonhero/e6d97c7e-cef0-4946-8428-6d37bce21aab.png
-    :target: https://wakatime.com/ 
+![image](https://wakatime.com/share/@yoonhero/e6d97c7e-cef0-4946-8428-6d37bce21aab.png)
