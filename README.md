@@ -8,13 +8,18 @@
 	
 	
 
-### Hello My Name is Yoon Seong Hyeon. 
-- I always try to make better world. 
-- My Motto is "Think Nothing". 
- 
-### I will change the world! Step by step I will be better person!
-- Future Doesn't come to us. We make it ourselves.
-	
+## 안녕하세요! 
+
+### 제 이름은 윤승현입니다. Yoonhero!
+
+
+상상은 즐겁습니다. 내가 만들어나가고 싶은 미래를 골똘히 생각해보면서 제 손으로 직접 뭔가를 만들어나가는 것이 너무 즐거울뿐입니다.
+
+
+
+### 꿈은 꾸기만 하는것이 아니라 이루는 것입니다. 저는 항상 꿈을 이루기 위해서 노력할 것이고 제 앞길을 가로막는 장애물을 하나 하나 없애며 나아갈 것입니다.
+
+
 
  [![Yoonhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhero)](https://github.com/anuraghazra/github-readme-stats)
  
