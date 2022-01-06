@@ -10,15 +10,14 @@
 
 ## 안녕하세요! 
 
-### 제 이름은 윤승현입니다. Yoonhero!
+### Hello! My name is Yoonhero! 
 
 
-상상은 즐겁습니다. 내가 만들어나가고 싶은 미래를 골똘히 생각해보면서 제 손으로 직접 뭔가를 만들어나가는 것이 너무 즐거울뿐입니다.
+### 꿈은 꾸는 아니라 이루는 것입니다. 저는 항상 꿈을 이루기 위해서 노력할 것이고 이룰것입니다.
 
+저는 상상하는 것을 좋아합니다. 미래는 불확실하지만 이 불확실한 미래를 내가 하나하나 개척해 나간다는 생각으로 매일매일 노력하면서 살아가고 있습니다.
 
-
-### 꿈은 꾸기만 하는것이 아니라 이루는 것입니다. 저는 항상 꿈을 이루기 위해서 노력할 것이고 제 앞길을 가로막는 장애물을 하나 하나 없애며 나아갈 것입니다.
-
+Imagination is fun. I'm just happy for making something myself. 
 
 
  [![Yoonhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhero)](https://github.com/anuraghazra/github-readme-stats)
