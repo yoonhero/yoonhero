@@ -36,3 +36,5 @@ Future is not coming to us, we make it for my dream.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<figure><embed src="https://wakatime.com/share/@yoonhero/8227012d-f577-4859-b2bf-e784f763ad44.svg"></embed></figure>
+
