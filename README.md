@@ -7,10 +7,9 @@
 ###  꿈이 있는 윤승현입니다.
 
 
-``` 
-꿈은 꾸는 아니라 이루는 것입니다. 저는 항상 꿈을 이루기 위해서 노력할 것이고 이룰것입니다.
-Future is not coming to us, we make it for my dream.
-```
+
+> <strong>꿈</strong>은 꾸는 것이 아니라 이루는 것입니다. 저는 항상 꿈을 이루기 위해서 노력할 것이고 이룰 것입니다. Future is not coming to us, I make it for my dream.
+
 
 저는 상상하는 것을 좋아합니다. 불확실한 미래를 하나하나 개척해 나간다는 생각을 가지고 매일매일 노력하면서 살아가고 있습니다.
 
@@ -19,7 +18,6 @@ Future is not coming to us, we make it for my dream.
  
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonhero%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
   
   
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLRcC3qP9gi5l1QUxBqHGjw)](https://www.youtube.com/channel/UCLRcC3qP9gi5l1QUxBqHGjw)
