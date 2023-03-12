@@ -2,19 +2,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=Yoonhero&fontAlignY=40&fontSize=90&fontColor=d3d3d3&animation=fadeIn&desc=Dreamer&descSize=30&descAlignY=60)
 
 
-## 안녕하세요! 꿈이 멋진 윤승현입니다.
+## Hello! I'm Yoonhero with a great dream.
 
 ```
-꿈은 꾸는 것이 아니라 이루는 것이다.
+A dream is not a dream, but a pursuing.
 ```
 
-**제가 꿈꾸는 세상을 만들기 위해서 배움을 멈추지 않습니다. 사람들의 삶을 바꾸기 위해 항상 남들과 다르게 생각합니다.**
+**I never stop learning to create a world I dream of. I always think differently to change people's lives.**
 
 ### 2023 GOAL
 
-- [ ] 자율주행의자 제작
-- [ ] R&E #1 Brainstormers: Dream comes True.
-- [ ] R&E #2 Ethical Chat GPT
+- [ ] Making 
+- [ ] Reserach&Education Brainstormers: Dream comes True.
+- [ ] Reserach&Education Ethical Chat GPT
 
 
  [![Yoonhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhero)](https://github.com/anuraghazra/github-readme-stats)
