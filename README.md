@@ -2,19 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=Yoonhero&fontAlignY=40&fontSize=90&fontColor=d3d3d3&animation=fadeIn&desc=Dreamer&descSize=30&descAlignY=60)
 
 
-## Hello! I'm Yoonhero with a great dream.
+# Hello! I'm Yoonhero
 
-```
-A dream is not a dream, but a pursuing.
-```
+I'm Deep Learning and Web Tech Enthusiast.
 
 **I never stop learning to create a world I dream of. I always think differently to change people's lives.**
 
-### 2023 GOAL
-
-- [ ] Making 
-- [ ] Reserach&Education Brainstormers: Dream comes True.
-- [ ] Reserach&Education Ethical Chat GPT
 
 
  [![Yoonhero's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhero)](https://github.com/anuraghazra/github-readme-stats)
