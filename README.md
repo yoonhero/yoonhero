@@ -1,14 +1,14 @@
 # Hello! I'm Yoonhero
 
-- I'd like to be a Brainstormers pondering fancy idea
-- I'd like not to belong the mainstream, transcending over the trend
-- I'd like to meet people who love to have a "good question"
+- I am a Brainstormers capturing fancy ideas across disciplines.
+- I dwell beyond the mainstream where change begins to arise.
+- I seek to meet sorceror obsessed with their own "good question".
 
 <!--![image](https://github.com/user-attachments/assets/9c2a5641-67f4-4481-ae15-418e5513e439)-->
 
 ![teaMmeme](https://mmeme.org/api/badge?username=yoonhero)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonhero%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <!-- RIP [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonhero%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 
 <!--[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLRcC3qP9gi5l1QUxBqHGjw)](https://www.youtube.com/channel/UCLRcC3qP9gi5l1QUxBqHGjw)
